@@ -1,5 +1,7 @@
 ### 👋 Hi My name is Minhyuk Kim 👋
 
+<p>🌱 I’m currently learning Front-End Development</p>
+
 <!--
 **kmh990303/kmh990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

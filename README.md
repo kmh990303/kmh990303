@@ -1,4 +1,4 @@
-### 👋 Hi My name is Minhyuk Kim 👋
+<h1>👋 Hi My name is Minhyuk Kim 👋 </h1>
 
 <p>🌱 I’m currently learning Front-End Development</p>
 

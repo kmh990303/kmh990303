@@ -2,6 +2,10 @@
 
 <p>🌱 I’m currently learning Front-End Development</p>
 
+<p>Stack</p>
+<hr>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-#1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=White"/>
 <!--
 **kmh990303/kmh990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

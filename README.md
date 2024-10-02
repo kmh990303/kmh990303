@@ -2,7 +2,7 @@
 
 <p>🌱 I’m currently learning Front-End Development</p>
 
-<h3>Stack</h3>
+<h3>💻 Stack</h3>
 <hr>
 <h4>Front-End</h4>
 <span>

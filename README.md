@@ -1,10 +1,10 @@
-<h1>👋 김민혁 | 프론트엔드 개발 👋 </h1>
+<h1>👨‍🎓 김민혁 | 프론트엔드 개발 </h1>
 
-<p>🌱 I’m currently learning Front-End Development</p>
+<p>💻 I’m currently learning Front-End Development</p>
 
-<h3>💻 Stack</h3>
+<h3>⚒️ Stack</h3>
 <hr>
-<h4>Front-End</h4>
+<h4>▶️ Front-End</h4>
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -18,7 +18,7 @@
 </span>
 <hr>
 
-<h4>Back-End</h4>
+<h4>▶️ Back-End</h4>
 <span>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
@@ -28,7 +28,7 @@
 </span>
 <hr>
 
-<h4>ETC</h4>
+<h4>▶️ ETC</h4>
 <span>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>

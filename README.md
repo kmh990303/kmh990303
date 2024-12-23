@@ -1,7 +1,7 @@
 <h1>👨‍🎓 김민혁 | 프론트엔드 개발자 </h1>
 
 <p>💻 I’m currently learning Front-End Development</p>
-<p>🗒️ study: <a href='https://www.notion.so/13c221c9c51380ac8407c0633ec117f6'/></p>
+<p>🗒️ study: <a href="https://www.notion.so/13c221c9c51380ac8407c0633ec117f6" target="_blank">Notion 링크</a></p>
 
 <h3>⚒️ Stack</h3>
 <hr>

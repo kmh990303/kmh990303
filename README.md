@@ -1,6 +1,6 @@
 <h1>👨‍🎓 김민혁 | 프론트엔드 개발자 </h1>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
   <div>
     <p>💻 I’m currently learning Front-End Development</p>
     <p>
@@ -12,7 +12,7 @@
   </div>
   <div>
     <a href="https://solved.ac/labcs/" target="_blank">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디" alt="Solved.ac Profile"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile"/>
     </a>
   </div>
 </div>

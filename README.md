@@ -11,7 +11,7 @@
     </p>
   </div>
   <div>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" align='right'/>
   </div>
 </div>
 

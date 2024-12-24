@@ -1,7 +1,7 @@
 <h1>👨‍🎓 김민혁 | 프론트엔드 개발자 </h1>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div style="display: flex";>
+  <div align='left'>
     <p>💻 I’m currently learning Front-End Development</p>
     <p>
       🗒️ study: 
@@ -10,8 +10,8 @@
       </a>
     </p>
   </div>
-  <div>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" align='right'/>
+  <div align='right'>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile"/>
   </div>
 </div>
 

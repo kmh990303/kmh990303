@@ -11,9 +11,7 @@
     </p>
   </div>
   <div>
-    <a href="https://solved.ac/labcs/" target="_blank">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile"/>
-    </a>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile"/>
   </div>
 </div>
 

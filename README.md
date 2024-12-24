@@ -1,4 +1,4 @@
-<h1>👨‍🎓 김민혁 | 개발자 </h1>
+<h1>👨‍🎓 MinHyuk Kim </h1>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>

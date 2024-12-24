@@ -1,4 +1,4 @@
-<h1>👨‍🎓 김민혁 | 프론트엔드 개발자 </h1>
+<h1>👨‍🎓 김민혁 | 개발자 </h1>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>

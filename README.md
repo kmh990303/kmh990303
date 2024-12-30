@@ -2,13 +2,13 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 20px 0;">
   <!-- 왼쪽 소개 및 solved.ac 영역 -->
-  <div style="max-width: 40%;">
+  <div align=center>
     <p>💻 I’m currently learning Front-End Development</p>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
   </div>
   
   <!-- 오른쪽 Stack 영역 -->
-  <div style="max-width: 55%;" align='right'>
+  <div style="max-width: 55%;" align=center>
     <h3 style="max-width: 50%">⚒️ Stack</h3>
     <hr/>
     <h4>▶️ Front-End</h4>

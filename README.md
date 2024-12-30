@@ -9,7 +9,7 @@
   
   <!-- 오른쪽 Stack 영역 -->
   <div style="max-width: 55%;" align='right'>
-    <h3>⚒️ Stack</h3>
+    <h3 style="max-width: 50%">⚒️ Stack</h3>
     <hr/>
     <h4>▶️ Front-End</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">

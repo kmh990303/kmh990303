@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Minhyuk's%20GITHUB&fontSize=50&animation=twinkling)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 20px 0;">
+<div align=center>
   <!-- 왼쪽 소개 및 solved.ac 영역 -->
   <div align=center>
     <p>💻 I’m currently learning Front-End Development</p>

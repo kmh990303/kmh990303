@@ -28,7 +28,6 @@
     </div>
   </span>
   <span>
-    <p>💻 I’m currently learning Front-End Development</p>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
   </span>
 </div>

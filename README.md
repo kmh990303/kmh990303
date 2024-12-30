@@ -8,7 +8,7 @@
   </div>
   
   <!-- 오른쪽 Stack 영역 -->
-  <div style="max-width: 55%;">
+  <div style="max-width: 55%;" align='right'>
     <h3>⚒️ Stack</h3>
     <hr/>
     <h4>▶️ Front-End</h4>

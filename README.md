@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Minhyuk's%20GITHUB&fontSize=50&animation=twinkling)
 
 <div align=center>
-  <!-- 왼쪽 소개 및 solved.ac 영역 -->
-  <div style="display: inline-block; text-align: left; margin-right: 20px;">
-    <p>💻 I’m currently learning Front-End Development</p>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
-    <span>
+  <span aling=left>
     <h3 style="max-width: 50%">⚒️ Tech Stacks</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <p align=center>
@@ -31,5 +27,8 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </div>
   </span>
-  </div>
+  <span align=right>
+    <p>💻 I’m currently learning Front-End Development</p>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
+  </span>
 </div>

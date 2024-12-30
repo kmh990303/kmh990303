@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">👨‍🎓 MinHyuk Kim</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Minhyuk's%20GITHUB&fontSize=50&animation=twinkling)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0; flex-wrap: wrap;">
   <div style="max-width: 60%;">

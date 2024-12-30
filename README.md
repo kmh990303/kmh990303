@@ -27,6 +27,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </div>
   </span>
+  <br/>
   <span style='margin: 30px'>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
   </span>

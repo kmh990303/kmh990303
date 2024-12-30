@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 20px 0; flex-wrap: wrap;">
   <!-- 좌측 소개 영역 -->
-  <div style="flex: 1; min-width: 300px;">
+  <div align='left'>
     <div>
       <p>💻 I’m currently learning Front-End Development</p>
       <p>
@@ -18,7 +18,7 @@
   </div>
 
   <!-- 우측 기술 스택 영역 -->
-  <div style="flex: 2; min-width: 400px;">
+  <div align='right'>
     <h3>⚒️ Stack</h3>
     <hr/>
 

@@ -2,13 +2,13 @@
 
 <div align=center>
   <!-- 왼쪽 소개 및 solved.ac 영역 -->
-  <div style='inline'>
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
     <p>💻 I’m currently learning Front-End Development</p>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
   </div>
   
   <!-- 오른쪽 Stack 영역 -->
-  <div style='inline'>
+  <div style="display: inline-block; text-align: left;">
     <h3 style="max-width: 50%">⚒️ Stack</h3>
     <h4>▶️ Front-End</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">

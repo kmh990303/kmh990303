@@ -1,36 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Minhyuk's%20GITHUB&fontSize=50&animation=twinkling)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0; flex-wrap: wrap;">
-  <div>
-    <div>
-      <p>💻 I’m currently learning Front-End Development</p>
-      <p>
-        🗒️ Study: 
-        <a href="https://almond-drip-5f0.notion.site/13c221c9c51380ac8407c0633ec117f6" target="_blank">
-          <i class="fab fa-notion"></i> Notion 링크
-        </a>
-      </p>
-    </div>
-    <div style="flex-shrink: 0;">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
-    </div>
+  <div style="max-width: 60%;">
+    <p>💻 I’m currently learning Front-End Development</p>
+    <p>
+      🗒️ Study: 
+      <a href="https://almond-drip-5f0.notion.site/13c221c9c51380ac8407c0633ec117f6" target="_blank">
+        <i class="fab fa-notion"></i> Notion 링크
+      </a>
+    </p>
   </div>
-  <div>
-    <h3>⚒️ Stack</h3>
-    <hr/>
+  <div style="flex-shrink: 0;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
+  </div>
+</div>
 
-      <h4>▶️ Front-End</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-      </div>
+<h3>⚒️ Stack</h3>
+<hr/>
+
+<h4>▶️ Front-End</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+</div>
 <hr/>
 
 <h4>▶️ Back-End</h4>
@@ -51,5 +50,4 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
-  </div>
-</div>
+

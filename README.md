@@ -5,10 +5,7 @@
   <div style="display: inline-block; text-align: left; margin-right: 20px;">
     <p>💻 I’m currently learning Front-End Development</p>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=labcs" alt="Solved.ac Profile" style="max-width: 150px; height: auto;"/>
-  </div>
-  
-  <!-- 오른쪽 Stack 영역 -->
-  <div style="display: inline-block; text-align: left;">
+    <span>
     <h3 style="max-width: 50%">⚒️ Tech Stacks</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <p align=center>
@@ -33,5 +30,6 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </div>
+  </span>
   </div>
 </div>

@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Minhyuk's%20GITHUB&fontSize=50&animation=twinkling)
 
-<div align=center>
+<div>
   <span aling=left>
     <h3 style="max-width: 50%">⚒️ Tech Stacks</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
